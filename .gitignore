@@ -1,0 +1,14 @@
+projects/*.exe
+projects/*.ppx
+projects/*.tag
+projects/*.sdf
+projects/*.suo
+projects/*.user
+projects/*.sln
+projects/*.data
+projects/Debug/
+projects/Release/
+projects/output/
+*.data
+keyvalsto
+keyvalsto.exe
